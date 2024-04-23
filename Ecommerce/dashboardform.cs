@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// UPDATING THE PROGRAM AND PUSH IT TO THE GITHUB
+
 namespace Ecommerce
 {
     public partial class dashboardform : Form
